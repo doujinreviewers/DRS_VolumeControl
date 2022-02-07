@@ -1,0 +1,12 @@
+/*:ja
+ * @target MV MZ
+ * @plugindesc 音量と効果音をオフにするウィンドウをゲームに追加します。
+ * @author 同人Reviewers
+ * 
+ * @help DRS_VolumeControl.js
+ * このプラグインにプラグインコマンドはありません。
+ * 
+ * プラグインが起動している間、ツクールMZのフォルダ内に「DRS_VolumeControl_MainWindow.html」というファイルが生成されます。
+ * このファイルはプラグインの画面を閉じると同時に削除されますが、万が一消えていなかった場合は手動で削除していただいても問題ありません。
+ * 
+ */
